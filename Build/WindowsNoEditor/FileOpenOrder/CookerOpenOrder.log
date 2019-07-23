@@ -1,0 +1,632 @@
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 0
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset" 1
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset" 2
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Imposter_Enum.uasset" 3
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 4
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EIntTypes.uasset" 5
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 6
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset" 7
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 9
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 10
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 11
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 12
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 13
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 14
+"../../../Engine/Content/BasicShapes/Cone.uasset" 15
+"../../../Engine/Content/BasicShapes/Cube.uasset" 16
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 17
+"../../../Engine/Content/BasicShapes/Plane.uasset" 18
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 19
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 20
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 21
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 22
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 24
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 31
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 32
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 33
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 34
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 35
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 36
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 37
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 38
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 39
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 40
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 41
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 42
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 43
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 44
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 45
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 46
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 47
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 48
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 49
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 50
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 51
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 52
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 53
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 54
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 55
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 56
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 57
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 58
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 59
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 60
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 65
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 66
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 67
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 68
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 69
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 71
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 72
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 73
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 75
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 76
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 77
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 78
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 79
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 80
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 81
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 82
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 83
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 84
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 85
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 86
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 87
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 88
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 89
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 90
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 91
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 92
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 93
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 94
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 95
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 96
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 97
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 98
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 99
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 100
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 101
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 102
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 103
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 104
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 105
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 117
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 118
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 119
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 120
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 121
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 122
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 123
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 124
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 125
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 126
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 127
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 128
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 130
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 131
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 132
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 133
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 134
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 135
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 136
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 137
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 138
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 139
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 140
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 141
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 142
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 143
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 144
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 145
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 146
+"../../../Engine/Content/EditorResources/Bad.uasset" 147
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 148
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 149
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 150
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 151
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 152
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 153
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 154
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 155
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 156
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 157
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 158
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 159
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 160
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 161
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 162
+"../../../Engine/Content/EditorResources/S_Note.uasset" 163
+"../../../Engine/Content/EditorResources/S_Player.uasset" 164
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 165
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 166
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 167
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 168
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 169
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 170
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 171
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 172
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 173
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 174
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 175
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 176
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 177
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 178
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 179
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 180
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 181
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 182
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 183
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 184
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 185
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 186
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 187
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 188
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 189
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 190
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 204
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 208
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 209
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 210
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 211
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 212
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 213
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 214
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 215
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 216
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 217
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 218
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 219
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 220
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 221
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 222
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 223
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 224
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 225
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 226
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 227
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 228
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 229
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 233
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 235
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 236
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 237
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 238
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 239
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 240
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 241
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 242
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 243
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 244
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 245
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 246
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 247
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 248
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 249
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 251
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 253
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 254
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 255
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 256
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 257
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 258
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 259
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 260
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 261
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 262
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 263
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 264
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 265
+"../../../Engine/Content/EngineResources/Black.uasset" 266
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 267
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 268
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 269
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 270
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 271
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 272
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 273
+"../../../Engine/Content/EngineSounds/Master.uasset" 274
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 275
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 276
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 277
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 278
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 279
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 297
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 298
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 299
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 300
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 301
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 302
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 303
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 304
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 305
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 308
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 311
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 312
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 313
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 314
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 315
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/CharacterAnimation_Idle_Skeleton.uasset" 316
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/CharacterAnimation_Idle_Anim.uasset" 317
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/CharacterAnimation_Walk_Anim.uasset" 318
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/PlayerBlendSpace.uasset" 319
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/02_-_Default.uasset" 320
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/CharacterAnimation_Idle_PhysicsAsset.uasset" 321
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/CharacterAnimation_Idle.uasset" 322
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/ThirdPersonCharacter.uasset" 323
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Player_DIF.uasset" 324
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Player_DIF_Mat.uasset" 325
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPoker/PlatformPlayingCard.uasset" 326
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Enviroment/CardPlatform.uasset" 327
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/StarterContent/Materials/M_Basic_Wall_Orange.uasset" 328
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/StarterContent/Materials/M_Basic_Wall_Red.uasset" 329
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Meshes/sm_colourButton.uasset" 330
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Sounds/Blocky_Power_Down_1.uasset" 331
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Sounds/Blocky_Power_Up_1.uasset" 332
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Enviroment/P1ColourButtonLogic.uasset" 333
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPoker/PokerChip1Mat.uasset" 334
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPoker/BouncePadPokerChip.uasset" 335
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Enviroment/PokerChipJumpPad.uasset" 336
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/Bottle1.uasset" 337
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Bottle_Texture1.uasset" 338
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Bottle_Texture2.uasset" 339
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Bottle_Texture3.uasset" 340
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Bottle_Texture4.uasset" 341
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Bottle_Texture5.uasset" 342
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/Chair.uasset" 343
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture2.uasset" 344
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture3.uasset" 345
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture4.uasset" 346
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture5.uasset" 347
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture6.uasset" 348
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture7.uasset" 349
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Chair_Texture8.uasset" 350
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/PICTURE_FRAME_ONE.uasset" 351
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Paintings3.uasset" 352
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/PICTURE_FRAME_TWO.uasset" 353
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Paintings4.uasset" 354
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/PICTURE_FRAME_THREE.uasset" 355
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Paintings5.uasset" 356
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/PlayingCardBase.uasset" 357
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube100.uasset" 358
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube101.uasset" 359
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube102.uasset" 360
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube103.uasset" 361
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube104.uasset" 362
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/Clock.uasset" 363
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube69.uasset" 364
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/OverheadLight.uasset" 365
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube70.uasset" 366
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube84.uasset" 367
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube85.uasset" 368
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube86.uasset" 369
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube87.uasset" 370
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube88.uasset" 371
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube89.uasset" 372
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube90.uasset" 373
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCube99.uasset" 374
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/BlueChip.uasset" 375
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder100.uasset" 376
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/BlackChip.uasset" 377
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder101.uasset" 378
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/RedChip.uasset" 379
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder102.uasset" 380
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder105.uasset" 381
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder106.uasset" 382
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder107.uasset" 383
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder108.uasset" 384
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder109.uasset" 385
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder110.uasset" 386
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder111.uasset" 387
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder121.uasset" 388
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder122.uasset" 389
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder123.uasset" 390
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder124.uasset" 391
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder125.uasset" 392
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder126.uasset" 393
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder127.uasset" 394
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder130.uasset" 395
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder131.uasset" 396
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder132.uasset" 397
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder133.uasset" 398
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder134.uasset" 399
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder135.uasset" 400
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder136.uasset" 401
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder137.uasset" 402
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder138.uasset" 403
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder141.uasset" 404
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder142.uasset" 405
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/SmokingPipe.uasset" 406
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder69.uasset" 407
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder70.uasset" 408
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder78.uasset" 409
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder79.uasset" 410
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder80.uasset" 411
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder86.uasset" 412
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder87.uasset" 413
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder88.uasset" 414
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder89.uasset" 415
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder92.uasset" 416
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder93.uasset" 417
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder94.uasset" 418
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder95.uasset" 419
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder96.uasset" 420
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder97.uasset" 421
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder98.uasset" 422
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_pCylinder99.uasset" 423
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_03.uasset" 424
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_010.uasset" 425
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_04.uasset" 426
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_011.uasset" 427
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_05.uasset" 428
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_012.uasset" 429
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_06.uasset" 430
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_013.uasset" 431
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_07.uasset" 432
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_014.uasset" 433
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_01.uasset" 434
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_08.uasset" 435
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DOG_02.uasset" 436
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_Texture_09.uasset" 437
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/PokerTable.uasset" 438
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/DecorationNPCs_The_Gang4.uasset" 439
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FLOOR.uasset" 440
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube108.uasset" 441
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube109.uasset" 442
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube110.uasset" 443
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube111.uasset" 444
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube113.uasset" 445
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube114.uasset" 446
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube115.uasset" 447
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube133.uasset" 448
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube134.uasset" 449
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/Wall.uasset" 450
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube135.uasset" 451
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube138.uasset" 452
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube140.uasset" 453
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube141.uasset" 454
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube142.uasset" 455
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/Doorway.uasset" 456
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube143.uasset" 457
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube144.uasset" 458
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube146.uasset" 459
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube148.uasset" 460
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube151.uasset" 461
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube157.uasset" 462
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube162.uasset" 463
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube165.uasset" 464
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube166.uasset" 465
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube167.uasset" 466
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube168.uasset" 467
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube169.uasset" 468
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube170.uasset" 469
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube171.uasset" 470
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube172.uasset" 471
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube173.uasset" 472
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube174.uasset" 473
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube175.uasset" 474
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube176.uasset" 475
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube177.uasset" 476
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube178.uasset" 477
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube179.uasset" 478
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube180.uasset" 479
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube181.uasset" 480
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube182.uasset" 481
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube183.uasset" 482
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube200.uasset" 483
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube201.uasset" 484
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube202.uasset" 485
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube206.uasset" 486
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube207.uasset" 487
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube68.uasset" 488
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube71.uasset" 489
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube72.uasset" 490
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube73.uasset" 491
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube74.uasset" 492
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube92.uasset" 493
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/DogPokerKitSet/FloorsWalls_pCube93.uasset" 494
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/StarterContent/Textures/T_MacroVariation.uasset" 495
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 496
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 497
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/StarterContent/Materials/M_Metal_Gold.uasset" 498
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 499
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 500
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 501
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 502
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 503
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 504
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 505
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 506
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 507
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 508
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 509
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 510
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 511
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 512
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 513
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 514
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 515
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 516
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 517
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 518
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 519
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 520
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 521
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 522
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 523
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 524
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 525
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 526
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 527
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 528
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 529
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 530
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 531
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 532
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 533
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 534
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 535
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 536
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 537
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/Button_UI.uasset" 538
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/TitleScreen.uasset" 539
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/MainMenuWidget.uasset" 540
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/ControlsPage.uasset" 541
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/Dialogue_UI.uasset" 542
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/Interaction_UI.uasset" 543
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/JumpIntoPainting.uasset" 544
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/UI/title_example.uasset" 545
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Splash/Splash.uasset" 546
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 547
+"../../../Engine/Content/Maps/Entry.umap" 548
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardAnimation_Idle_Skeleton.uasset" 549
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardAnimation_Idle_Anim.uasset" 550
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardAnimation_Walk_Anim.uasset" 551
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardBlendIdleWalk.uasset" 552
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardAnimationBluePrint.uasset" 553
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 554
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 555
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Mannequin/Animations/ThirdPersonRun.uasset" 556
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 557
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 558
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Player/CharacterAnimationBlueprint.uasset" 559
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardAnimation_Idle_PhysicsAsset.uasset" 560
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Animations/GuardAnimation_Idle.uasset" 561
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/Guard/Guard.uasset" 562
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/PlayerStart_Blueprint.uasset" 563
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 564
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 565
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 566
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 567
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 568
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 569
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 570
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 571
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 572
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Museum_Test_Textures_BuiltData.uasset" 573
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Giraffe1_DIF.uasset" 574
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Giraffe1_DIF_Mat.uasset" 575
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Giraffe_DIF.uasset" 576
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Giraffe_DIF_Mat.uasset" 577
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Mouse1_DIF.uasset" 578
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Mouse1_DIF_Mat.uasset" 579
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Mouse2_DIF.uasset" 580
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Mouse2_DIF_Mat.uasset" 581
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Mouse_DIF.uasset" 582
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Mouse_DIF_Mat.uasset" 583
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Rabbit1_DIF.uasset" 584
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Rabbit1_DIF_Mat.uasset" 585
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Rabbit2_DIF.uasset" 586
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Rabbit2_DIF_Mat.uasset" 587
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Rabbit_DIF.uasset" 588
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Rabbit_DIF_Mat.uasset" 589
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/BuffaloGuard1_DIF.uasset" 590
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/BuffaloGuard1_DIF_Mat.uasset" 591
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/BuffaloGuard2_DIF.uasset" 592
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/BuffaloGuard2_DIF_Mat.uasset" 593
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/BuffaloGuard_DIF.uasset" 594
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/BuffaloGuard_DIF_Mat.uasset" 595
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/InteractablePaintings_Diff.uasset" 596
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/InteractablePaintings_Diff_Mat.uasset" 597
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/InteractablePaintings_Inpaint_Diff.uasset" 598
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/InteractablePaintings_Inpaint_Diff_Mat.uasset" 599
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/MuseumWallsandProps_Diff.uasset" 600
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/MuseumWallsandProps_Mat.uasset" 601
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/Paintings_1_Diff.uasset" 602
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/Paintings_1_Diff_Mat.uasset" 603
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/Paintings_2_Diff.uasset" 604
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/Paintings_2_Diff_Mat.uasset" 605
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/Window_Landscape_Diff.uasset" 606
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/Window_Landscape_Diff_Mat.uasset" 607
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Giraffe.uasset" 608
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Mouse.uasset" 609
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Characters/NPC/Rabbit.uasset" 610
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/Museum_Mat.uasset" 611
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/Ceilling.uasset" 612
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/pasted__InteractablePaintings_Mat.uasset" 613
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/InteractablePaintings.uasset" 614
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/MuseumFloor_Diff.uasset" 615
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Textures/Museum/MuseumFloor_Mat.uasset" 616
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/MuseumLevel_1_2.uasset" 617
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/PaintingFrame_Mat.uasset" 618
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/pasted__Paintings_1_Mat.uasset" 619
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/pasted__Paintings_2_Mat.uasset" 620
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/Paintings.uasset" 621
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/Sculptures.uasset" 622
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/Window_Scene_Mat.uasset" 623
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Levels/MuseumLevel/Windows.uasset" 624
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Museum_Test_Textures.umap" 625
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 626
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Geometry/Museum/Level_Museum/defaultMat.uasset" 627
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Geometry/Museum/Level_Museum/InteractablePaintings.uasset" 628
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Geometry/Museum/Level_Museum/Paintings.uasset" 629
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/Geometry/Museum/Level_Museum/Sculptures.uasset" 630
+"C:/Users/Jeremy B/Documents/GitHub/MuseumGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 631
